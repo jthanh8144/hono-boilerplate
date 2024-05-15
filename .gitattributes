@@ -1,0 +1,8 @@
+* text eol=lf
+*.png binary
+*.jpg binary
+*.lockb binary
+*.ttf -text diff
+*.eot -text diff
+*.woff -text diff
+*.woff2 -text diff
